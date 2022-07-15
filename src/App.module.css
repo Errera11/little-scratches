@@ -1,0 +1,15 @@
+
+.page {
+    border: 2px solid purple;
+    border-radius: 15px;
+}
+
+.current__page {
+    border-radius: 30px;
+    border: 10px red;
+}
+
+.page__wrapper {
+    display: flex;
+    cursor: pointer;
+}
